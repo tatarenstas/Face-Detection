@@ -1,2 +1,2 @@
-# Face-Recognition
-Face recognition from the image on Python (OpenCV)
+# Face-Detection
+Face detection from the image on Python (OpenCV)
